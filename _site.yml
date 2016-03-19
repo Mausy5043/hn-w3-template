@@ -5,6 +5,8 @@ navbar_inverse: true
 bootstrap: 3.3.6
 navbar_right_items: 1
 
+baseurl: urubu
+
 reflinks:
     urubu:
         url: http://urubu.jandecaluwe.com
