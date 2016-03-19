@@ -1,4 +1,3 @@
-
 /*
 Tipue Search 5.0
 Copyright (c) 2015 Tipue
@@ -17,29 +16,50 @@ var tipuesearch_stop_words = ["a", "about", "above", "after", "again", "against"
 
 // Word replace
 
-var tipuesearch_replace = {'words': [
-     {'word': 'tipua', 'replace_with': 'tipue'},
-     {'word': 'javscript', 'replace_with': 'javascript'},
-     {'word': 'jqeury', 'replace_with': 'jquery'}
-]};
+var tipuesearch_replace = {
+  'words': [{
+    'word': 'tipua',
+    'replace_with': 'tipue'
+  }, {
+    'word': 'javscript',
+    'replace_with': 'javascript'
+  }, {
+    'word': 'jqeury',
+    'replace_with': 'jquery'
+  }]
+};
 
 
 // Weighting
 
-var tipuesearch_weight = {'weight': [
-     {'url': 'http://www.tipue.com', 'score': 200},
-     {'url': 'http://www.tipue.com/search', 'score': 100},
-     {'url': 'http://www.tipue.com/about', 'score': 100}
-]};
+var tipuesearch_weight = {
+  'weight': [{
+    'url': 'http://www.tipue.com',
+    'score': 200
+  }, {
+    'url': 'http://www.tipue.com/search',
+    'score': 100
+  }, {
+    'url': 'http://www.tipue.com/about',
+    'score': 100
+  }]
+};
 
 
 // Stemming
 
-var tipuesearch_stem = {'words': [
-     {'word': 'e-mail', 'stem': 'email'},
-     {'word': 'javascript', 'stem': 'jquery'},
-     {'word': 'javascript', 'stem': 'js'}
-]};
+var tipuesearch_stem = {
+  'words': [{
+    'word': 'e-mail',
+    'stem': 'email'
+  }, {
+    'word': 'javascript',
+    'stem': 'jquery'
+  }, {
+    'word': 'javascript',
+    'stem': 'js'
+  }]
+};
 
 
 // Internal strings
