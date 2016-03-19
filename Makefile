@@ -1,4 +1,4 @@
-GH-PAGES = ${HOME}/dev/urubu-gh-pages/
+#GH-PAGES = ${HOME}/dev/urubu-gh-pages/
 
 all: build
 
@@ -9,5 +9,5 @@ build:
 serve:
 	python -m urubu serve
 
-publish:
-	git subtree push --prefix _build origin gh-pages    
+#publish:
+#	git subtree push --prefix _build origin gh-pages
