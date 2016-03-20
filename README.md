@@ -4,6 +4,8 @@ This repository is the template for my website. I stole most of the internals fr
 
 ## Installing
 The repository is first installed locally. Then the website is built and uploaded to the hosting website.
+
+The recipe:
 ```
 git clone <URL>
 cd hn-w3-template
