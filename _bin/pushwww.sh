@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ $1 == "" ]; then
+if [ -z $1 ]; then
   echo "Syntax: pushwww.sh <dir>"
   exit 1
 fi
