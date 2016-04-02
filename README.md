@@ -1,13 +1,12 @@
 # hn-w3-template
 
-This repository is the template for my website. I stole most of the internals from [Jan de Caluwe's **Urubu Quickstart** repository](https://github.com/jandecaluwe/urubu-quickstart)
+This repository is the template for my website. The website is powered by Grav.
 
 ## Installing
-The repository is first installed locally. Then the website is built and uploaded to the hosting website.
+Clone the repository locally:
+`git clone https://github.com/Mausy5043/hn-w3-template.git`
 
-The recipe:
-```
-git clone <URL>
-cd hn-w3-template
-_bin\pushwww.sh .
-```
+Then make changes...
+
+Push the website to the hosting site:
+`_bin\push.sh`
