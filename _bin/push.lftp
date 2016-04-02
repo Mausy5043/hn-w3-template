@@ -1,6 +1,5 @@
 open hendrixnet.nl
+set net:timeout 10
 
-
-mirror --reverse --delete --verbose=3 -c  /public_html/grav/user/pages/04.status/default.md
-cd /public_html/grav/user
-put default.md
+mirror --reverse --delete --verbose=3 -c  ./pages/ /public_html/grav/user/pages/
+ls /public_html/grav/user/pages/
