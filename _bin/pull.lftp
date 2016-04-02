@@ -1,0 +1,6 @@
+open hendrixnet.nl
+
+
+mirror --verbose=3 -c /public_html/grav/user/pages/ 
+#cd /public_html/grav/user
+#put default.md

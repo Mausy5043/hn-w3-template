@@ -3,6 +3,6 @@
 HERE=$(dirname $0)
 
 pushd $HERE/..
-  #lftp -f push.lftp
+  lftp -f pull.lftp
   ls -al
 popd
