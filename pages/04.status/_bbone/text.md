@@ -1,9 +1,9 @@
 ---
 title: Server
-menu: rbian
+menu: bbone
 ---
 
-# RBIAN
+# BBONE
 
 Content is provided by the server.
 

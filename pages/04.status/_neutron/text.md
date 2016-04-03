@@ -1,9 +1,9 @@
 ---
 title: Server
-menu: rbian
+menu: neutron
 ---
 
-# RBIAN
+# NEUTRON
 
 Content is provided by the server.
 

@@ -1,9 +1,9 @@
 ---
 title: Server
-menu: rbian
+menu: rbelec
 ---
 
-# RBIAN
+# RBELEC
 
 Content is provided by the server.
 

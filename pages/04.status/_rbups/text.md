@@ -1,9 +1,9 @@
 ---
 title: Server
-menu: rbian
+menu: rbups
 ---
 
-# RBIAN
+# RBUPS
 
 Content is provided by the server.
 

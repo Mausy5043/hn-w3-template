@@ -1,9 +1,9 @@
 ---
 title: Server
-menu: rbian
+menu: osmc
 ---
 
-# RBIAN
+# OSMC
 
 Content is provided by the server.
 

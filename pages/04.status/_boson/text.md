@@ -1,9 +1,9 @@
 ---
 title: Server
-menu: rbian
+menu: boson
 ---
 
-# RBIAN
+# BOSON
 
 Content is provided by the server.
 
