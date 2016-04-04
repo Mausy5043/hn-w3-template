@@ -1,5 +1,5 @@
 ---
-title: One Page Demo Site
+title: Server Status
 menu: Status
 onpage_menu: true
 body_classes: "modular header-image fullwidth"
