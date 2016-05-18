@@ -12,10 +12,5 @@ content:
         custom:
             - _top
             - _boson
-            - _rbagain
-            - _rbian
-            - _rbelec
-            - _rbups
-            - _osmc
-            - _neutron
+
 ---
