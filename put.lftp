@@ -1,0 +1,5 @@
+open hendrixnet.nl
+set net:timeout 10
+
+mirror --reverse --delete --verbose=3 -c  ./pages/ public_html/grav/user/pages/
+ls public_html/grav/user/pages/

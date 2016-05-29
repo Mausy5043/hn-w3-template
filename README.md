@@ -6,7 +6,13 @@ This repository is the template for my website. The website is powered by Grav.
 Clone the repository locally:
 `git clone https://github.com/Mausy5043/hn-w3-template.git`
 
-Then make changes...
+## Editing
+Make changes...
 
+## Publishing the website
 Push the website to the hosting site:
-`_bin\push.sh`
+`./push.sh`
+
+## Retrieve existing website
+To retrieve the content of an existing website from the hosting site:
+`./pull.sh`
