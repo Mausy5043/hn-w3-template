@@ -1,10 +1,9 @@
 ---
-title: Stream
+title: UPS
 ---
-# The Stream
+# UPS
 
-This page is all about the stream. The stream is measured by a KAMSTRUP 162JxC smart electricity meter.
-A Raspberry Pi 1B reads the measurement data via the serialport of the meter.
+This page is all about the UPS.
 
 <style type="text/css">
 
