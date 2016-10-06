@@ -1,8 +1,7 @@
 ---
-title: Blog
+content:
+    items: '@self.children'
 ---
-# My New Page!
+# Blog
 
-This is the body of **The blog** and I can easily use _Markdown_ syntax here.
-No idea how this works though!
-;-)
+Collection of random thoughts

@@ -19,6 +19,14 @@ Congratulations! You have installed the **Base Grav Package** that provides a **
 
 To edit this page, simply navigate to the folder you installed **Grav** into, and then browse to the `user/pages/01.home` folder and open the `default.md` file in your [editor of choice](http://learn.getgrav.org/basics/requirements).  You will see the content of this page in [Markdown format](http://learn.getgrav.org/content/markdown).
 
+# One hash
+## Two hashes
+### Three hashes
+#### Four hashes
+##### Five hashes
+how deep can you go?
+###### Six hashes
+
 ### Create a New Page
 
 Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
