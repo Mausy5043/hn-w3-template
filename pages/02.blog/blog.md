@@ -1,6 +1,8 @@
 ---
 content:
     items: '@self.children'
+order:
+  by: date
 ---
 # Blog
 

@@ -1,5 +1,6 @@
 ---
 title: Debian minimal on QEMU/KVM
+date: 10/07/2016
 ---
 
 #### Introduction
@@ -158,4 +159,4 @@ individual files in /usr/share/doc/*/copyright.
 
 Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
 permitted by applicable law.
-debbi3@debbi3:~$ 
+debbi3@debbi3:~$
